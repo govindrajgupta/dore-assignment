@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDI_MmDHL0jY2EPA8ANtCHA8NXgMYReLZc",
+    apiKey: "KEy",
     authDomain: "dora-assignment.firebaseapp.com",
     projectId: "dora-assignment",
     storageBucket: "dora-assignment.firebasestorage.app",
